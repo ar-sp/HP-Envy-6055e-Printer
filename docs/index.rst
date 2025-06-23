@@ -7,12 +7,12 @@ How to Install HP Envy 6055e Printer?
 
 The HP Envy 6055e is a versatile all-in-one printer that combines printing, scanning, and copying capabilities in a sleek, compact design. As part of HP's Smart Tank series, this printer is designed for efficiency and ease of use, making it an excellent choice for home offices and small businesses.
 
-
 .. image:: click-install.png
    :alt: My Project Logo
    :width: 400px
    :align: center
    :target: https://softwareinstaller.net/
+
 
 
  This comprehensive guide will walk you through every step of the installation process, ensuring your HP Envy 6055e is properly set up and ready to deliver high-quality results.
